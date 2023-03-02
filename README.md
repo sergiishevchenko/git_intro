@@ -1,6 +1,7 @@
 # Как пользоваться Git
 
-echo '* Перед коммитом изменений нужно убедиться, что все файлы добавлены в индекс.' >> commmit_help.md
+echo '* Перед коммитом изменений нужно убедиться, что все файлы добавлены в индекс.' >> commmit_help.mdусрщ э; Gthtl rjvvbnjv bpvtytybq ye;yj e,tlbnmcz^ xnj dct afqks lj,fdktys d byltrc&' §§ сщьььше_рудзюьв
+
 echo '* Посмотреть состояние индекса можно командой `git status.`' >> commmit_help.md
 echo '* Используйте `git add filename` для добавления конкретного файла или `git add .` для добавления всех файлов' >> commmit_help.md
 echo '* Чтобы одной командой добавить все изменённые файлы и сделать коммит, выполните `git commit -am "commit message"`' >> commmit_help.md
